@@ -1,4 +1,5 @@
-udel-collab
-===========
-
-This is an example of how to collaborate on Github
+#---------Schedule---------------
+10/07/2014: 
+	finish graph legend
+	to do: how to link to web-chirp
+	
